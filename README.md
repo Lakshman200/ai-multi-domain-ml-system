@@ -21,14 +21,14 @@ The goal is to build a **unified ML pipeline** with:
 
 ## 📂 Project Structure  
 ai-multi-domain-ml-system/
-├── data/ # Raw datasets (excluded from GitHub if large)
-├── notebooks/ # Jupyter notebooks for EDA & prototyping
-├── scripts/ # Python scripts for preprocessing & training
-├── models/ # Trained & saved models
-├── app/ # FastAPI + Streamlit code for deployment
-├── requirements.txt # Project dependencies
-├── README.md # Project documentation
-├── .gitignore # Ignored files (venv, cache, large data)
+- data/ # Raw datasets (excluded from GitHub if large)
+- notebooks/ # Jupyter notebooks for EDA & prototyping
+- scripts/ # Python scripts for preprocessing & training
+- models/ # Trained & saved models
+- app/ # FastAPI + Streamlit code for deployment
+- requirements.txt # Project dependencies
+= README.md # Project documentation
+- .gitignore # Ignored files (venv, cache, large data)
 
 ---
 
